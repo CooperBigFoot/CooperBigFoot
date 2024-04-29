@@ -10,7 +10,7 @@ I’m currently an MSc candidate in Environmental Engineering at ETH Zürich, sp
 
 ### 🌱 I’m currently learning:
 - **Advanced Python Techniques** for more efficient data analysis and machine learning models.
-- **Web Development Frameworks** like Sveltkit and Tailwind CSS to enhance my full stack development skills.
+- **Web Development Frameworks** like Sveltkit, Tailwind CSS and TypeScript to enhance my full stack development skills.
 
 ### 💞️ I’m looking to collaborate on:
 - Projects focused on **Environmental Conservation and Water Resource Management**.
